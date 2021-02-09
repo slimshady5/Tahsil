@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dbconfig>
+	<address>localhost</address>
+	<username>root</username>
+	<password>slimshady</password>
+	<database>tahsil</database>
+	<portnumber/>
+</dbconfig>
